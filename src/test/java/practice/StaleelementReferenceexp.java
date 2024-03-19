@@ -14,5 +14,6 @@ public static void main(String[] args) {
 	//refresh the page
 	driver.navigate().refresh();
 	email.sendKeys("abx@gamil.com");
+	System.out.println("Boss iam from github");
 }
 }
